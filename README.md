@@ -66,7 +66,7 @@
 
 Abacore delivers innovative digital solutions across AI, machine learning, cybersecurity, blockchain, IoT, and data center services. Based in Berlin, the company focuses on secure, intelligent, and scalable technologies for enterprises and governments, offering penetration testing, SOC implementation, smart contract development, decentralized finance, e‑government platforms, smart city IoT networks, and energy‑efficient data center design. Their mission is to drive digital transformation and build the future of connected, trustworthy systems.
 
-**Areas:** AI · Cybersecurity · Blockchain · IoT · Data Centers
+**Areas:** Artificial Intelligence · Cybersecurity · Blockchain · IoT · Data Center
 
 ## Abacore on APIs.io
 
@@ -99,7 +99,7 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Which operations an agent can call, which act, and which need a human in the loop.
 
-- [Abacore Net Agentic Access](https://apis.io/agentic-access/abacore-net/abacore-net-agentic-access/)
+- [Abacore Agentic Access](https://apis.io/agentic-access/abacore-net/abacore-net-agentic-access/)
 
 #### JSON-LD (1)
 
@@ -117,14 +117,14 @@ Spectral rulesets for the provider's contracts.
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Abacore Net Authentication](https://apis.io/security/abacore-net/abacore-net-authentication/)
-- [Abacore Net Domain Security](https://apis.io/security/abacore-net/abacore-net-domain-security/)
+- [Abacore Authentication](https://apis.io/security/abacore-net/abacore-net-authentication/)
+- [Abacore Domain Security](https://apis.io/security/abacore-net/abacore-net-domain-security/)
 
 #### OAuth scopes (1)
 
 The permissions the API asks for.
 
-- [Abacore Net Scopes](https://apis.io/scopes/abacore-net/abacore-net-scopes/)
+- [Abacore Scopes](https://apis.io/scopes/abacore-net/abacore-net-scopes/)
 
 ## Where to find this API
 
@@ -138,25 +138,25 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 34.5** — thin · rubric 0.25.0 · scored 2026-10-31
+**Kin Score 26.4** — thin · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
 | Discoverability | 66.1 |
 | Contract quality | 37.5 |
-| Contract governance | 70.9 |
-| Operational transparency | 5.3 |
+| Contract governance | 19.7 |
+| Operational transparency | 4.8 |
 | Developer ergonomics | 6.4 |
-| Access clarity | 31.6 |
+| Access clarity | 29.8 |
 
-**Agent readiness 33.0** — agent-ready
+**Agent readiness 24.8** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | yes |
-| Agentic Access | unknown |
+| Agentic Access | derived (partial credit) |
 | Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
+| MCP Server | — |
 | Auth Clarity | — |
 | Idempotency | — |
 | Error Semantics | verified |
@@ -174,8 +174,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 26.4** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 20.9** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/abacore-net/](https://apis.io/providers/abacore-net/).
 
